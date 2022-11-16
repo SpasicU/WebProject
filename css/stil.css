@@ -1,0 +1,11 @@
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-brand:hover {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+h1, h2, h3, h4, p
+{
+    font-family: "Merriweather", Georgia, serif;
+}
+
